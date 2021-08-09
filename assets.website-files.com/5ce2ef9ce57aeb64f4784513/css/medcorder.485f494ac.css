@@ -167,7 +167,7 @@ p {
 }
 
 a {
-  color: #7674e2;
+  color: #ff5252;
   text-decoration: underline;
 }
 
@@ -194,7 +194,7 @@ blockquote {
   padding: 10px 20px;
   border-style: none none none solid;
   border-width: 1px 1px 1px 2px;
-  border-color: #000 #000 #000 #7674e2;
+  border-color: #000 #000 #000 #ff5252;
   font-family: Merriweather, serif;
   font-size: 28px;
   line-height: 42px;
@@ -227,7 +227,7 @@ figure {
 .navbar {
   margin-bottom: 0px;
   padding: 0px 0px 20px;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .nav-link {
@@ -254,14 +254,14 @@ figure {
 }
 
 .nav-link.invert.w--current {
-  border-bottom-color: #7674e2;
-  color: #7674e2;
+  border-bottom-color: #ff5252;
+  color: #ff5252;
 }
 
 .nav-link.button {
   margin-left: 20px;
   border-radius: 6px;
-  background-color: #2e364a;
+  background-color: #000000;
   color: #fff;
 }
 
@@ -296,7 +296,7 @@ figure {
   padding-right: 20px;
   padding-bottom: 160px;
   padding-left: 20px;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .text-block {
@@ -550,7 +550,7 @@ figure {
 .section-7 {
   display: block;
   padding: 160px 20px 200px;
-  background-color: #2e364a;
+  background-color: #000000;
 }
 
 .div-block-22 {
@@ -761,12 +761,12 @@ figure {
   padding-right: 20px;
   padding-bottom: 70px;
   padding-left: 20px;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .section-9.invert {
   padding-top: 40px;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .text-block-16 {
@@ -782,7 +782,7 @@ figure {
 }
 
 .text-block-16.invert {
-  color: #7674e2;
+  color: #ff5252;
 }
 
 .link {
@@ -866,7 +866,7 @@ figure {
 
 .rt-info {
   margin-top: 30px;
-  color: #2e364a;
+  color: #000000;
 }
 
 .rt-info h2 {
@@ -908,7 +908,7 @@ figure {
 }
 
 .rt-info a {
-  color: #7674e2;
+  color: #ff5252;
 }
 
 .heading {
@@ -918,7 +918,7 @@ figure {
 
 .section-11 {
   padding: 180px 20px;
-  background-color: #2e364a;
+  background-color: #000000;
 }
 
 .div-block-38 {
@@ -1023,7 +1023,7 @@ figure {
 .section-for-providers {
   padding-right: 20px;
   padding-left: 20px;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .sfpcontainer-1 {
@@ -1066,7 +1066,7 @@ figure {
 .section-about-providers {
   position: relative;
   padding: 100px 20px 130px;
-  background-color: #2e364a;
+  background-color: #000000;
 }
 
 .sap-container-1 {
@@ -1217,7 +1217,7 @@ figure {
 
 .text-block-20 {
   margin-bottom: 16px;
-  color: #2e364a;
+  color: #000000;
   font-size: 18px;
   font-weight: 700;
 }
@@ -1371,7 +1371,7 @@ figure {
   padding-top: 18px;
   padding-bottom: 18px;
   border-radius: 4px;
-  background-color: #7674e2;
+  background-color: #ff5252;
   color: #fff;
   font-size: 18px;
   line-height: 22px;
@@ -1380,7 +1380,7 @@ figure {
 }
 
 .link-2 {
-  color: #7674e2;
+  color: #ff5252;
   text-decoration: none;
 }
 
@@ -1487,10 +1487,10 @@ figure {
 .rt-blog a {
   border-style: none none solid;
   border-width: 1px 1px 2px;
-  border-color: #000 #000 #7674e2;
+  border-color: #000 #000 #ff5252;
   -webkit-transition: color 200ms ease-in-out;
   transition: color 200ms ease-in-out;
-  color: #7674e2;
+  color: #ff5252;
   text-decoration: none;
 }
 
@@ -1743,7 +1743,7 @@ figure {
   height: 50px;
   padding: 10px 20px 7px;
   border-radius: 4px;
-  background-color: #7674e2;
+  background-color: #ff5252;
   font-weight: 700;
 }
 
@@ -1790,7 +1790,7 @@ figure {
 }
 
 .link-block-4:hover {
-  color: #7674e2;
+  color: #ff5252;
 }
 
 .collection-list-wrapper {
@@ -2105,7 +2105,7 @@ figure {
 }
 
 .blog-rt-summary a {
-  color: #7674e2;
+  color: #ff5252;
   text-decoration: none;
 }
 
@@ -2144,8 +2144,8 @@ figure {
   display: inline-block;
   margin-top: 28px;
   padding-bottom: 10px;
-  border-bottom: 1px solid #7674e2;
-  color: #7674e2;
+  border-bottom: 1px solid #ff5252;
+  color: #ff5252;
   font-size: 14px;
   line-height: 14px;
   font-weight: 700;
@@ -2181,7 +2181,7 @@ figure {
 
 .section-20 {
   padding: 45px 20px 35px;
-  background-color: #2e364a;
+  background-color: #000000;
 }
 
 .div-block-64 {
@@ -2281,7 +2281,7 @@ figure {
 .section-about {
   padding-right: 20px;
   padding-left: 20px;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .sacontainer {
@@ -2456,7 +2456,7 @@ figure {
   position: relative;
   overflow: hidden;
   padding: 100px 20px 160px;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .text-block-39 {
@@ -2497,7 +2497,7 @@ figure {
   padding-right: 20px;
   padding-left: 20px;
   border-radius: 6px;
-  background-color: #2e364a;
+  background-color: #000000;
   font-weight: 700;
   letter-spacing: 0.5px;
 }
@@ -2533,7 +2533,7 @@ figure {
 .section-social {
   padding-right: 20px;
   padding-left: 20px;
-  background-color: #2e364a;
+  background-color: #000000;
   color: #fff;
 }
 
@@ -2580,7 +2580,7 @@ figure {
 .section-testimonials {
   position: relative;
   padding: 100px 20px 160px;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .st-container-1 {
@@ -2662,7 +2662,7 @@ figure {
 
 .slide-name {
   margin-bottom: 8px;
-  color: #7674e2;
+  color: #ff5252;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -2871,7 +2871,7 @@ figure {
 }
 
 .linkintext {
-  color: #7674e2;
+  color: #ff5252;
   font-weight: 700;
   text-decoration: none;
 }
@@ -2893,7 +2893,7 @@ figure {
 }
 
 .alllinks {
-  color: #7674e2;
+  color: #ff5252;
   text-decoration: none;
 }
 
@@ -2910,7 +2910,7 @@ figure {
   margin-bottom: 100px;
   padding: 14px 24px;
   border-radius: 4px;
-  background-color: #7674e2;
+  background-color: #ff5252;
   font-weight: 700;
   letter-spacing: 2px;
 }
@@ -2920,7 +2920,7 @@ figure {
 }
 
 .heading-7 {
-  color: #7674e2;
+  color: #ff5252;
   font-size: 24px;
   cursor: pointer;
 }
@@ -2996,14 +2996,14 @@ figure {
   background-position: 100% 50%;
   background-size: 26px;
   background-repeat: no-repeat;
-  color: #7674e2;
+  color: #ff5252;
 }
 
 .block-quote {
   margin-top: 20px;
   margin-bottom: 40px;
   padding-top: 10px;
-  border-left-color: #7674e2;
+  border-left-color: #ff5252;
   font-family: 'Droid Serif', serif;
   color: #000;
   font-size: 34px;
@@ -3176,7 +3176,7 @@ figure {
 .slide-nav-2 {
   margin-top: 0px;
   background-color: transparent;
-  color: #7674e2;
+  color: #ff5252;
   font-size: 10px;
 }
 
@@ -3618,12 +3618,12 @@ figure {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .slider-3 {
   max-width: 1600px;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .div-block-91 {
@@ -3660,7 +3660,7 @@ figure {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .section-23 {
@@ -3676,7 +3676,7 @@ figure {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .div-block-93 {
@@ -3690,7 +3690,7 @@ figure {
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .heading-12 {
@@ -3798,7 +3798,7 @@ figure {
   margin-top: 0px;
   margin-bottom: 5px;
   font-family: 'Proxima nova', sans-serif;
-  color: #7674e2;
+  color: #ff5252;
   font-size: 16px;
   line-height: 24px;
   font-weight: 700;
@@ -3922,7 +3922,7 @@ figure {
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
   align-self: center;
-  color: #7674e2;
+  color: #ff5252;
   font-size: 34px;
   text-align: center;
 }
@@ -4008,7 +4008,7 @@ figure {
   margin-top: 40px;
   margin-bottom: 40px;
   padding-top: 0px;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .text-block-3-copy {
@@ -4033,7 +4033,7 @@ figure {
   padding-right: 20px;
   padding-bottom: 100px;
   padding-left: 20px;
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .div-block-copy {
@@ -4181,11 +4181,11 @@ figure {
   align-self: center;
   border-style: solid;
   border-width: 1px;
-  border-color: #7674e2;
+  border-color: #ff5252;
   border-radius: 8px;
   background-color: #fff;
   font-family: 'Proxima nova', sans-serif;
-  color: #7674e2;
+  color: #ff5252;
   font-size: 18px;
   font-weight: 700;
 }
@@ -4353,7 +4353,7 @@ figure {
   margin-right: auto;
   margin-left: auto;
   font-family: 'Proxima nova', sans-serif;
-  color: #7674e2;
+  color: #ff5252;
   font-size: 40px;
   line-height: 120%;
   font-weight: 800;
@@ -4387,7 +4387,7 @@ figure {
 }
 
 .section-25 {
-  background-color: #7674e2;
+  background-color: #ff5252;
 }
 
 .paragraph-6 {
@@ -4405,7 +4405,7 @@ figure {
   margin-top: 30px;
   margin-bottom: 20px;
   font-family: 'Proxima nova', sans-serif;
-  color: #7674e2;
+  color: #ff5252;
   font-size: 34px;
   line-height: 130%;
   font-weight: 800;
@@ -4526,7 +4526,7 @@ figure {
   padding: 30px;
   border-radius: 8px;
   background-color: #fff;
-  color: #7674e2;
+  color: #ff5252;
   font-size: 22px;
   font-weight: 700;
 }
@@ -4729,7 +4729,7 @@ figure {
 .button-purple-center {
   padding: 30px;
   border-radius: 8px;
-  background-color: #7674e2;
+  background-color: #ff5252;
   color: #fff;
   font-size: 22px;
   font-weight: 700;
@@ -4788,7 +4788,7 @@ figure {
   display: none;
   margin-top: 0px;
   background-color: transparent;
-  color: #7674e2;
+  color: #ff5252;
   font-size: 10px;
 }
 
@@ -5139,7 +5139,7 @@ figure {
     position: fixed;
     width: 100%;
     padding-top: 60px;
-    background-color: #2e364a;
+    background-color: #000000;
   }
 
   .brand-open {
@@ -5859,7 +5859,7 @@ figure {
   .body-2 {
     padding-right: 0px;
     padding-left: 0px;
-    background-color: #7674e2;
+    background-color: #ff5252;
   }
 
   .container-5 {
@@ -6634,7 +6634,7 @@ figure {
     padding-top: 10px;
     border-top-left-radius: 4px;
     border-bottom-left-radius: 4px;
-    background-color: #7674e2;
+    background-color: #ff5252;
   }
 
   .menu-button.invert {
@@ -6870,11 +6870,11 @@ figure {
   }
 
   .icon-4 {
-    color: #7674e2;
+    color: #ff5252;
   }
 
   .icon-5 {
-    color: #7674e2;
+    color: #ff5252;
   }
 
   .section-forpatients {
